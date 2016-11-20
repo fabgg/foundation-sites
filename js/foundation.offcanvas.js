@@ -8,6 +8,7 @@
  * @requires foundation.util.mediaQuery
  * @requires foundation.util.triggers
  * @requires foundation.util.motion
+ * @requires foundation.util.keyboard
  */
 
 class OffCanvas {
